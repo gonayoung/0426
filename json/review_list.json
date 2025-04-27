@@ -1,0 +1,13 @@
+[
+  {
+    "type": "종이책",
+    "buyer": "구매자",
+    "id": "h********",
+    "date": "2025.04.10",
+    "content": "너무 감동적인 책입니다!",
+    "emotion": "힐링돼요",
+    "emotion_icon": "img/green_icon.png",
+    "likes": 5,
+    "comments": 2
+  }
+]
